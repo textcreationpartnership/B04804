@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pretty ballad of the Lord of Lorn, and the false steward. The tune is, Green sleeves.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663-1674?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04804</idno>
+            <idno type="STC">Wing P3320C</idno>
+            <idno type="STC">ESTC R182053</idno>
+            <idno type="EEBO-CITATION">47012590</idno>
+            <idno type="OCLC">ocm 47012590</idno>
+            <idno type="VID">174558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174558)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pretty ballad of the Lord of Lorn, and the false steward. The tune is, Green sleeves.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and [J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>between 1663 and 1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Publisher and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:174558:1" rendition="simple:additions"/>
+            <head>A pretty Ballad of the Lord of <hi>Lorn,</hi> and the Falſe Steward.</head>
+            <p>
+               <hi>The Tune is, <hi>Green Sleeves</hi>
+               </hi>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <l>IT was a worthy Lord of <hi>Lorn,</hi>
+            </l>
+            <l>he was a Lord of high degree,</l>
+            <l>He ſent his ſon unto the School,</l>
+            <l>to learn ſome civility.</l>
+            <l>He learned more in one day,</l>
+            <l>then other Children did in three,</l>
+            <l>And then beſpake the School-maſter,</l>
+            <l>unto him tenderly.</l>
+            <l>In faith thou art the honeſteſt boy,</l>
+            <l>that e're I blinkt on with mine eye:</l>
+            <l>I hope thou art ſome <hi>Eaſterling</hi> born,</l>
+            <l>the Holy Ghoſt is with thee:</l>
+            <l>He ſaid he was no <hi>EaſterIing</hi> born,</l>
+            <l>the child thus anſwered courteouſly,</l>
+            <l>My Father is the Lord of <hi>Lorn,</hi>
+            </l>
+            <l>and I his Son perdye.</l>
+            <l>The School maſter turned round about,</l>
+            <l>his angry Mood he could not ſwage:</l>
+            <l>He marvelled the Child could ſpeak ſo wiſe,</l>
+            <l>he being of ſo tender age.</l>
+            <l>He girt the Saddle to the Steed,</l>
+            <l>the Bridle of beſt gold ſhown,</l>
+            <l>He took his leave of his fellows all,</l>
+            <l>and quickly he was gone.</l>
+            <l>And when he came to his Father dear,</l>
+            <l>he kneeled down upon his knee,</l>
+            <l>I am come to you father, he ſaid,</l>
+            <l>Gods bleſſing give you me:</l>
+            <l>Thou art welcome my ſon, he ſaid,</l>
+            <l>Gods bleſſing I thee give:</l>
+            <l>What tidings haſt thou brought my Son,</l>
+            <l>being come ſo haſtily,</l>
+            <l>I have brought tidings Father, he ſaid,</l>
+            <l>and ſo liked it may be:</l>
+            <l>There's ne'r a book in all <hi>Scotland,</hi>
+            </l>
+            <l>but I can read it truly:</l>
+            <l>And there's ne'r a Doctor in all the Realm,</l>
+            <l>for all he goes in rich array,</l>
+            <l>I can write him a Leſſon ſoon,</l>
+            <l>to learn in ſeven years day:</l>
+            <l>That is good tydings, ſaid the Lord,</l>
+            <l>all in the place where I do ſtand,</l>
+            <l>My Son thou ſhalt into <hi>France</hi> go,</l>
+            <l>to learn the ſpeeches of each land:</l>
+            <l>Who ſhall go with him, ſaid the Lady?</l>
+            <l>husband we have none but he:</l>
+            <l>Madam, he ſaid, my head Steward,</l>
+            <l>he hath been true to me.</l>
+            <l>She call'd the Steward to an account,</l>
+            <l>a thouſand pound ſhe gave him anon,</l>
+            <l>Says, good ſir-Steward be good to my child</l>
+            <l>when he is far from home:</l>
+            <l>If I be falſe unto my young Lord,</l>
+            <l>then God be like unto me indeed.</l>
+            <l>And now to <hi>France</hi> they both are gone,</l>
+            <l>and God be their good ſpeed:</l>
+            <l>They had not bee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>France</hi> in Land,</l>
+            <l>not three wéeks to an end,</l>
+            <l>But meat nor drink the child got none,</l>
+            <l>nor money in Purſe to ſpend.</l>
+            <l>The child runs to the Rivers ſide,</l>
+            <l>he was fain to drink water then,</l>
+            <l>And after followed y<hi rend="sup">e</hi> falſe Steward</l>
+            <l>to put the Child therein:</l>
+            <l>But nay marry, ſaid the Child,</l>
+            <l>be asked mercy pitifully,</l>
+            <l>Good ſteward let me have my life,</l>
+            <l>what e're bet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e my body.</l>
+            <l>Now put off thy fair cloathing,</l>
+            <l>and give it meanon,</l>
+            <l>So put thée off thy ſilken ſhirt,</l>
+            <l>with many a golden ſeam.</l>
+            <l>But when the child was ſtript naked,</l>
+            <l>his body white as the lifly flower,</l>
+            <l>He might have been ſeen for his body,</l>
+            <l>a Princeſs Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mour,</l>
+            <l>He put him on an old Kelter Coat,</l>
+            <l>and hoſe of the ſame above the Knee,</l>
+            <l>He bid him go to the Shepherds houſe,</l>
+            <l>to keep ſheep on a love lovely:</l>
+            <l>The child ſaid, what ſhall be my name,</l>
+            <l>good Steward tell to me,</l>
+            <l>Thy name ſhall be poor doſt thou wear,</l>
+            <l>that thy name ſhall be.</l>
+            <l>The child came to the Shepherds houſe,</l>
+            <l>and asked mercy pitifully,</l>
+            <l>Says, good Shepherd take me in,</l>
+            <l>to keep ſheep on a lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o lovely,</l>
+            <l>But when the Shepherd ſaw the child,</l>
+            <l>he was ſo pleaſant in the eye,</l>
+            <l>I have no child, I'le make thee my heir,</l>
+            <l>thou ſhalt have my goods perdye.</l>
+            <l>And then beſpake the Shepherds wife,</l>
+            <l>unto the Child ſo tenderly,</l>
+            <l>Thou muſt take the ſheep &amp; go to the field,</l>
+            <l>and get them on a love lovely:</l>
+            <l>Now let us leave talk of the child,</l>
+            <l>that is keeping ſheep on a love lovely,</l>
+            <l>And we'l talk more of the falſe Steward,</l>
+            <l>and of his falſe treachery;</l>
+            <l>He bought himſelf three ſuits of apparel</l>
+            <l>that any Lord might a ſeem'd to worn,</l>
+            <l>He went a wooing to the Dukes daughter</l>
+            <l>and cal'd himſelf the Lord of <hi>Lorn.</hi>
+            </l>
+            <l>The Duke he welcomes the young Lord,</l>
+            <l>with three <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed ſtags anon,</l>
+            <l>If he had wiſt hiſ the falſe Steward,</l>
+            <l>to the devil he ſhould have gone:</l>
+            <l>But when they were at ſupper ſet,</l>
+            <l>with dainty de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cates that were there,</l>
+            <l>The D. ſaid, if th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wilt wed my daughter</l>
+            <l>I'le give thee thouſand pound a year:</l>
+            <l>The Lady woul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the red buck run,</l>
+            <l>and alſo for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt the Doe,</l>
+            <l>And with a hundrd luſty men,</l>
+            <l>the Lady did <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hunting go.</l>
+            <l>The Lady is a h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting gone,</l>
+            <l>over <hi>Feanſel</hi> cat is ſo high,</l>
+            <l>There was ſhe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are of a ſhepherds boy,</l>
+            <l>with ſheep on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> love love<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y:</l>
+            <l>And ever he ſig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and made moan,</l>
+            <l>and cryed out ittyfully,</l>
+            <l>My Father is the Lord of <hi>Lorn</hi>
+            </l>
+            <l>and knows not what's become of me.</l>
+            <l>And then beſpake the Lady gay,</l>
+            <l>and to her mad ſhe ſpake anon,</l>
+            <l>Go fetch me hithr the Shepherds boy,</l>
+            <l>why maketh h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all this mone?</l>
+            <l>But when he ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e before the Lady,</l>
+            <l>he was not to earn his courteſie,</l>
+            <l>Where waſt tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> born thou bonny child,</l>
+            <l>for whoſe ſake nakſt thou all this moan?</l>
+            <l>My deareſt-friend, Lady he ſaid.</l>
+            <l>is dead many years agon.</l>
+            <l>Tell thou to me thou bonny child,</l>
+            <l>tell me the truth and do not lie,</l>
+            <l>Know'ſt thou not the young Lord of <hi>Lorn?</hi>
+            </l>
+            <l>he is come a wooing unto me:</l>
+            <l>Yes forſooth, ſaid the child,</l>
+            <l>I know the Lord then verily:</l>
+            <l>The young Lord is a valiant Lord,</l>
+            <l>at home in his own Country.</l>
+            <l>Wilt leave thy ſheep thou bonny child,</l>
+            <l>and come in ſervice unto me,</l>
+            <l>Yes forſooth then ſaid the Child,</l>
+            <l>at your bidding will I be.</l>
+            <l>When the Steward lookt upon the Child,</l>
+            <l>he be wail'd him villanouſly,</l>
+            <l>Where waſt thou born thou Vagabond,</l>
+            <l>or where is thy Country?</l>
+            <l>Ha down ba down ſaid the Lady,</l>
+            <l>ſhe cal'd the Steward then preſently,</l>
+            <l>Without you <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear him more good will,</l>
+            <l>you get no love of me:</l>
+            <l>Then beſpake the falſe Steward,</l>
+            <l>unto the Lady haſtily:</l>
+            <l>At <hi>Abardine</hi> beyond the Sea,</l>
+            <l>his Father robbed thouſands three.</l>
+            <p>
+               <figure/>
+            </p>
+            <l>BVt then beſpake the Lady gay,</l>
+            <l>unto her Father courteouſly,</l>
+            <l>Saying, I have found a bonny child,</l>
+            <l>my Chamberlain to be:</l>
+            <l>Not ſo, not ſo, then ſaid the Duke;</l>
+            <l>for ſo it may not be,</l>
+            <l>For the young Lord of <hi>Lorn</hi> y<hi rend="sup">e</hi> comes a woo<g ref="char:EOLhyphen"/>ing,</l>
+            <l>will think no good of thee and me.</l>
+            <l>When the Duke had lookt upon the child,</l>
+            <l>he ſeem'd ſo pleaſant to the eye:</l>
+            <l>Child, becauſe thou loveſt Horſes well,</l>
+            <l>my Groom of Stable thou ſhalt be.</l>
+            <l>The Child plyed the Horſes well,</l>
+            <l>a twelve month to an end,</l>
+            <l>He was ſo courteous and ſo true,</l>
+            <l>every man becomes his friend:</l>
+            <l>He led a fair Gelding to the water,</l>
+            <l>where he may drink verily,</l>
+            <l>The Gelding up with his head</l>
+            <l>and hit the Child above the eye:</l>
+            <l>Wo worth the Horſe, then ſaid the Child</l>
+            <l>that ever Mare foled thee,</l>
+            <l>Thou little knowſt what thou haſt done,</l>
+            <l>thou haſt ſtriken a Lord of high degree.</l>
+            <l>The Ds. daughter was in her garden gréen</l>
+            <l>ſhe heard the Child make great moan,</l>
+            <l>She ran to the child all weeping,</l>
+            <l>and left her Maidens all alone.</l>
+            <l>Sing on thy ſong thou bonny child,</l>
+            <l>I will releaſe thee of thy pain,</l>
+            <l>I have made an oath Lady, he ſaid,</l>
+            <l>I dare not tell my tale again</l>
+            <l>Tell the horſe thy tale thou bonny child,</l>
+            <l>and ſo thy oath-ſhall ſaved be,</l>
+            <l>But when he told the horſe his tale,</l>
+            <l>the Lady wept moſt tenderly.</l>
+            <l>I'le do for thee my bonny child,</l>
+            <l>in faith I will do more for thee,</l>
+            <l>And for thy ſake my bonny child,</l>
+            <l>I'le put my wedding off months three,</l>
+            <l>The Lady did write a Letter then,</l>
+            <l>full pitifully with her own hand:</l>
+            <l>She ſent it to the Lord of <hi>Lorn,</hi>
+            </l>
+            <l>whereas he dwelt in fair <hi>Scotland:</hi>
+            </l>
+            <l>But when the Lord had read the letter,</l>
+            <l>his Lady wept moſt tenderly,</l>
+            <l>I knew what would become of my Child,</l>
+            <l>in ſuch a far Countrey.</l>
+            <l>The old Lord cal'd up his merry men,</l>
+            <l>and all that he gave Cloth and Fee,</l>
+            <l>With ſeven Lords by his ſide,</l>
+            <l>and into <hi>France</hi> rides he;</l>
+            <l>The wind ſerv'd, and they did fail,</l>
+            <l>ſo far into <hi>France</hi> Land:</l>
+            <l>They were wear of the Lord of <hi>Lorn,</hi>
+            </l>
+            <l>with a Porters ſtaff in his hand:</l>
+            <l>The Lords they moved hat and hand,</l>
+            <l>the Serving-men fell on their knee,</l>
+            <l>VVhat folks be yonder ſaid the ſteward,</l>
+            <l>that make the Porter courteſie:</l>
+            <l>Thou art a falſe thief, quoth the L. of <hi>Lorn,</hi>
+            </l>
+            <l>no longer might I bear with thee:</l>
+            <l>By the Law of <hi>France</hi> thou ſhalt be judg'd,</l>
+            <l>whither it be to live or dye.</l>
+            <l>A Queſt of Lords there choſen was,</l>
+            <l>to bench they came haſtily:</l>
+            <l>But when the Queſt ended was,</l>
+            <l>the falſe ſteward muſt dye.</l>
+            <l>Firſt they did him half hang,</l>
+            <l>and then they took him down anon,</l>
+            <l>And then put him in boyling lead</l>
+            <l>and then was ſodden breaſt and bone:</l>
+            <l>And then beſpake the Lord of <hi>Lorn,</hi>
+            </l>
+            <l>with many other Lords more,</l>
+            <l>Sir Duke if you be as willing as we,</l>
+            <l>we'l have a Marriage before we go:</l>
+            <l>Theſe Children both they did rejoyce</l>
+            <l>to hear the Lord his tale ſo ended,</l>
+            <l>They had rather to day then to morrow,</l>
+            <l>ſo he would not be offended.</l>
+            <l>But when the wedding ended was,</l>
+            <l>their was delicate dainty cheer,</l>
+            <l>I'le tell you how long the wedding did laſt</l>
+            <l>full three quarters of a year.</l>
+            <l>Such a banquet there was wrought,</l>
+            <l>the like was never ſeen,</l>
+            <l>The K. of <hi>France</hi> brought with him then</l>
+            <l>a hundred Tun of good red wine:</l>
+            <l>Five ſet of Muſtians were to be ſéen,</l>
+            <l>that never reſted night nor day,</l>
+            <l>Alſo <hi>Italians</hi> there did ſing,</l>
+            <l>full pleaſantly with great joy.</l>
+            <l>Thus have you heard what troubles great</l>
+            <l>unto ſucceſſive joys did turn,</l>
+            <l>And happy news amongſt the reſt,</l>
+            <l>unto the worthy Lord of <hi>Lorn.</hi>
+            </l>
+            <l>Let Rebels therefore warned be,</l>
+            <l>how miſchief once they do pretend,</l>
+            <l>For God may ſuffer for a <hi>time,</hi>
+            </l>
+            <l>but will diſcloſe it in the end.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> F. Coles, T. Vere, <hi>and</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
